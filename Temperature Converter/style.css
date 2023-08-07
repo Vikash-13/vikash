@@ -15,14 +15,14 @@ h1 {
     text-decoration: underline;
     font-family: 'Ubuntu', sans-serif;
     background: transparent;
-    color: #5ADAFF;
+    color: white;
     place-content: "Enter text";
 }
 
 h2 {
     font-family: 'Ubuntu', sans-serif;
     background: transparent;
-    color: #5ADAFF;
+    color: white;
 }
 
 .text-boxes {
@@ -39,8 +39,8 @@ input {
     margin-bottom: 10px;
     background: transparent;
     border: none;
-    border-bottom: 1px solid #5ADAFF;
-    color: #5ADAFF;
+    border-bottom: 1px solid white;
+    color: white;
     /*border-radius: 6px;*/
     padding: 3px;
     content: "Hello";
@@ -54,15 +54,15 @@ select {
     margin-bottom: 10px;
     background: transparent;
     border: none;
-    border-bottom: 1px solid #5ADAFF;
-    color: #5ADAFF;
+    border-bottom: 1px solid white;
+    color: white;
     /*border-radius: 6px;*/
     padding: 5px;
 }
 
 select option {
     background: #111;
-    color: #5ADAFF;
+    color: white;
 
 }
 
@@ -73,7 +73,7 @@ select option {
     margin-left: 450px;
     margin-bottom: 10%;
     width: 40%;
-    border: 2px solid #5ADAFF;
+    border: 2px solid white;
     text-align: center;
     border-radius: 15px;
     padding: 20px 25px;
@@ -82,7 +82,7 @@ select option {
     font-size: 20px;
     text-align: center;
     transition: 0.3s all ease;
-    color: #5ADAFF;
+    color: white;
     cursor: default;
     background: transparent;
     animation-name: example;
@@ -91,7 +91,7 @@ select option {
 
 .container:hover {
     transform: scale(1.03);
-    box-shadow: 5px 5px 13px 13px #999;
+    box-shadow: 5px 5px 13px 13px #4028d8;
 }
 
 .container .content {
@@ -108,14 +108,14 @@ button {
     height: 40px;
     width: 70px;
     font-size: 16px;
-    border: 1px solid #5ADAFF;
+    border: 1px solid white;
 }
 
 button:hover {
     background: #05386B;
     border: none;
     transition: 0.3s all ease;
-    color: #5ADAFF;
+    color: white;
     cursor: pointer;
 }
 
@@ -127,7 +127,7 @@ button:hover {
 
 span {
     font-family: 'Ubuntu', sans-serif;
-    color: #5ADAFF;
+    color: white;
     background: transparent;
     margin: 12px;
     margin-left: 30px;
@@ -136,20 +136,20 @@ span {
 /* FOOTER  */
 
 footer {
-    background: #5ADAFF;
+    background: white;
     padding: 20px;
     margin-top: 290px;
 }
 
 footer span {
-    background: #5ADAFF;
-    color: #5ADAFF;
+    background: white;
+    color: white;
 }
 
 footer span a {
     color: #9575cd;
     text-decoration: none;
-    background: #5ADAFF;
+    background: white;
 }
 
 footer span a:hover {
